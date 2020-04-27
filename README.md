@@ -1,2 +1,2 @@
-# scratch-source-online-copier
-The program can quickly use scratch-source-copier and scratch-source-comparer to compare the differences between different scratch projects
+＃scratch-source-online-comparer
+该程序可以快速使用草稿源复印机和草稿源比较器比较不同草稿项目之间的差异
