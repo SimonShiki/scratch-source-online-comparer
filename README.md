@@ -1,2 +1,1 @@
 ＃scratch-source-online-comparer
-该程序可以快速使用草稿源复印机和草稿源比较器比较不同草稿项目之间的差异
